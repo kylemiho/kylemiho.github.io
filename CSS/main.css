@@ -1,0 +1,80 @@
+/* imports */
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+
+body {
+	overflow: scroll;
+}
+
+/* Background Image */
+.bg {
+	background-image: url('../IMG/profpic.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	opacity: 0.8;
+	z-index: 0;
+}
+/* Background Image Title */
+.name {
+	margin-top: -40%;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	font-family: Cormorant Garamond;
+	font-size: 9vw;
+	font-weight: bold;
+}
+
+.description {
+	text-align: center;
+	position: relative;
+	font-family: Cormorant Garamond;
+	font-size: 6vw;
+	font-weight: bold;
+	z-index: 1;
+}
+
+/* Social Media Icons Wrapper */
+
+.social {
+	position: fixed;
+	bottom: 0px;
+	text-align: center;
+	width: 100%;
+	background-color: gray;
+}
+
+/* Social Media Icons */
+
+.fa {
+    color: black;
+    display: inline-block;
+    font-size: 35px;
+    margin: 10px auto;
+    width: 6%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Text Content */
+
+#firstText {
+	margin-top: 23%;
+}
+
+.text {
+	font-family: Cormorant Garamond;
+}
+
+.textTitle {
+	font-size: 5vw;
+	font-weight: bold;
+	text-align: center;
+}
+
+#last {
+	margin-bottom: 80px;
+}
