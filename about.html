@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
+	<script src="https://www.w3schools.com/lib/w3.js"></script>
 	<title>About Me</title>
 </head>
 <body>
 	<!-- Include Mainpage-->
+	<div w3-include-html="index.html"></div>
 	<p class = 'text textTitle' id = 'firstText'>About Me</p><br>
 	<p class = 'text'> Hi my name is Kyle Miho and I am a Software Developer.</p>
 
@@ -12,6 +14,10 @@
 	<div id = 'last'>
 		
 	</div>
+
+	<script>
+	w3.includeHTML();
+	</script>
 
 </body>
 
