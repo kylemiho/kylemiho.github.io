@@ -71,17 +71,18 @@ body {
 }
 
 .textP {
-	padding-left: 5%;
+	padding-left: 7%;
+	padding-right: 7%
 }
 
 .textSecondary {
 	padding-left: 5%;
 	font-weight: bold;
-	font-size: 2vw;
+	font-size: 3vw;
 }
 
 .textTitle {
-	font-size: 4vw;
+	font-size: 5vw;
 	font-weight: bold;
 	text-align: center;
 }
