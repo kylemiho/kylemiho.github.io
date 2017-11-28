@@ -67,16 +67,17 @@ body {
 
 .text {
 	font-family: Cormorant Garamond;
-}
-
-p .text {
 	font-size: 2vw;
 }
 
+.textP {
+	padding-left: 5%;
+}
+
 .textSecondary {
-	padding-left: 5%%;
+	padding-left: 5%;
 	font-weight: bold;
-	font-size: 2.5vw;
+	font-size: 2vw;
 }
 
 .textTitle {
