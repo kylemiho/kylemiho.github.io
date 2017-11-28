@@ -90,3 +90,25 @@ body {
 #last {
 	margin-bottom: 80px;
 }
+
+/* Table */
+.skill-header {
+	font-size: 11px;
+	color: white;
+	background: rgb(38, 166, 209);
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	margin-bottom: 30px;
+	font-weight: 500;
+}
+
+.skills-row {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+ul.skills {
+	padding: 0;
+	color: rgb(84, 84, 84);
+	font-weight: 200;
+}
