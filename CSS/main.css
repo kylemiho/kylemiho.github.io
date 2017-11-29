@@ -93,18 +93,17 @@ body {
 
 /* Table */
 .skill-header {
-	font-size: 15px;
+	font-size: 20px;
 	color: white;
 	background: rgb(30, 160, 200);
 	padding: 2%;
 	border-radius: 2px;
-	margin-bottom: 2%;
 	font-weight: 500;
 }
 
 .skills-row {
 	padding-bottom: 5%;
-	padding-top: 5%;
+	padding-top: 3%;
 }
 
 ul.skills {
