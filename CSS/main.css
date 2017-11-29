@@ -112,3 +112,12 @@ ul.skills {
 	color: rgb(84, 84, 84);
 	font-weight: 200;
 }
+
+/* Dropdown Menu Fix */
+.caret1 {
+    position: absolute !important; top: 0; right: 0;
+}
+
+.dropdown-toggle.disabled {
+    padding-right: 40px;
+}
