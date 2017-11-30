@@ -2,9 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 
 body {
-	background-image: url('https://github.com/kylemiho/kylemiho.github.io/blob/master/IMG/BG.png');
+	background-image: url('https://kylemiho.github.io/IMG/BG.png');
 	background-repeat: repeat;
-	overflow: scroll;
 }
 
 /* Background Image */
