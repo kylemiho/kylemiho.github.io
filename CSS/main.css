@@ -9,7 +9,6 @@ body {
 
 /* Background Image */
 .bg {
-	//background-image: url('https://github.com/kylemiho/kylemiho.github.io/blob/master/IMG/profpic.JPG');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
@@ -115,9 +114,10 @@ ul.skills {
 }
 
 /* Containers in Projects Folder */
-.container {
-	background-color: rgb(60,60,60);
+.contain {
+	background-color: rgb(30,30,30);
+	border-style: solid;
+	border-radius: 5px;
 	width: 100px;
 	height: 100px;
-	float: left;
 }
