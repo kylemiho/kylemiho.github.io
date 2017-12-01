@@ -119,10 +119,9 @@ ul.skills {
 	border-style: solid;
 	border-radius: 5px;
 	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-around;
+	flex-flow: row nowrap;
+	justify-content: space-evenly;
 	width: 200px;
 	height: 200px;
 	/* center elements */
-	margin-left: auto;
 }
