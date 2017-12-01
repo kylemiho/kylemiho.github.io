@@ -118,10 +118,11 @@ ul.skills {
 	background-color: rgb(230,230,230);
 	border-style: solid;
 	border-radius: 5px;
-	display: inline-block;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
 	width: 200px;
 	height: 200px;
 	/* center elements */
 	margin-left: auto;
-	margin-right: auto;
 }
