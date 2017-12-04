@@ -116,11 +116,9 @@ ul.skills {
 /* Containers in Projects Folder */
 .contain {
 	background-color: rgb(230,230,230);
-	border-style: solid;
-	border-radius: 5px;
-	display: flex;
-	flex-flow: row nowrap;
-	justify-content: space-evenly;
+	float: left;
+	margin-left: 100px;
+	margin-right: 100px;
 	width: 200px;
 	height: 200px;
 	/* center elements */
