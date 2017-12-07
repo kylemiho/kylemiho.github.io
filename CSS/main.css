@@ -116,6 +116,9 @@ ul.skills {
 /* Containers in Projects Folder */
 .contain {
 	border-radius: 15px;
+	border-color: black;
+	border-size: 5px;
+	border-style: solid;
 	float: left;
 	margin: 30px;
 	width: 200px;
@@ -126,6 +129,7 @@ ul.skills {
 	text-align: center;
 	vertical-align: center;
 	line-height: 200px;
+	font-family: Cormorant Garamond;
 	font-weight: bold;
 	font-size: 15px;
 	opacity: 1.0;
