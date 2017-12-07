@@ -117,8 +117,14 @@ ul.skills {
 .contain {
 	background-color: rgb(230,230,230);
 	float: left;
-	margin: 100px;
+	margin: 30px;
 	width: 200px;
 	height: 200px;
 	/* center elements */
+}
+
+.containText {
+	bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
 }
