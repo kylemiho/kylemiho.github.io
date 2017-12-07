@@ -119,7 +119,6 @@ ul.skills {
 	margin: 30px;
 	width: 200px;
 	height: 200px;
-	/* center elements */
 }
 
 .containText {
@@ -131,6 +130,8 @@ ul.skills {
 
 #website {
 	background-image: url('https://kylemiho.github.io/IMG/websites.jpeg')
+	width: 200px;
+	height: 200px;
 	background-size: cover;
 	background-repeat: no-repeat;
 	opacity: 0.8;
