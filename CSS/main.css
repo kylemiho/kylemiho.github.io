@@ -120,6 +120,7 @@ ul.skills {
 	margin: 30px;
 	width: 200px;
 	height: 200px;
+	z-index: 0;
 	/* center elements */
 }
 
@@ -127,8 +128,12 @@ ul.skills {
 	bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+	z-index: 3;
 }
 
 #website {
 	background-image: url('../IMG/websites.jpeg')
+	height: 100%;
+	width: 100%;
+	z-index: 2;
 }
