@@ -128,5 +128,6 @@ ul.skills {
 }
 
 #website {
-	background-image: url("https://kylemiho.github.io/IMG/profpic.JPG");
+	background-image: url("https://kylemiho.github.io/IMG/website.jpeg");
+	background-size: cover;
 }
