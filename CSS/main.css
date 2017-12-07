@@ -156,3 +156,9 @@ ul.skills {
 	background-size: cover;
 	opacity: 0.9
 }
+
+#other {
+	background-image: url("https://kylemiho.github.io/IMG/question.jpeg");
+	background-size: cover;
+	opacity: 0.9
+}
