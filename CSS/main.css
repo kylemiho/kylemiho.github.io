@@ -131,7 +131,7 @@ ul.skills {
 	background-image: url("https://kylemiho.github.io/IMG/profpic.JPG")
 	width: 200px;
 	height: 200px;
-	background-size: cover;
+	background-size: 100%;
 	background-repeat: no-repeat;
 	opacity: 0.8;
 	z-index: 2;
