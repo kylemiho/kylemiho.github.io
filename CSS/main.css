@@ -115,7 +115,6 @@ ul.skills {
 
 /* Containers in Projects Folder */
 .contain {
-	background-color: rgb(230,230,230);
 	float: left;
 	margin: 30px;
 	width: 200px;
@@ -133,7 +132,5 @@ ul.skills {
 
 #website {
 	background-image: url('https://kylemiho.github.io/IMG/websites.jpeg')
-	height: 100%;
-	width: 100%;
 	z-index: 2;
 }
