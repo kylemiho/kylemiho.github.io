@@ -115,6 +115,7 @@ ul.skills {
 
 /* Containers in Projects Folder */
 .contain {
+	border-radius: 15px;
 	float: left;
 	margin: 30px;
 	width: 200px;
@@ -122,6 +123,7 @@ ul.skills {
 }
 
 .containText {
+	position: relative;
 	bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
@@ -130,4 +132,17 @@ ul.skills {
 #website {
 	background-image: url("https://kylemiho.github.io/IMG/websites.jpeg");
 	background-size: cover;
+	opacity: 0.8
+}
+
+#gamedev {
+	background-image: url("https://kylemiho.github.io/IMG/gamedev.jpeg");
+	background-size: cover;
+	opacity: 0.8
+}
+
+#embedded {
+	background-image: url("https://kylemiho.github.io/IMG/embedded.jpeg");
+	background-size: cover;
+	opacity: 0.8
 }
