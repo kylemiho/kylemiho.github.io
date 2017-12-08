@@ -44,6 +44,7 @@ body {
 	height: 70px;
 	width: 100%;
 	background-color: gray;
+	z-index: 4;
 }
 
 /* Social Media Icons */
@@ -54,6 +55,7 @@ body {
     font-size: 35px;
     margin: 10px auto;
     width: 6%;
+    z-index: 5;
 }
 
 .fa:hover {
@@ -117,7 +119,7 @@ ul.skills {
 .contain {
 	border-radius: 15px;
 	border-color: black;
-	border-size: 5px;
+	border-width: 5px;
 	border-style: solid;
 	float: left;
 	margin: 30px;
