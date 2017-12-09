@@ -27,7 +27,7 @@ body {
 }
 
 .description {
-	margin-bottom: 23%;
+	margin-bottom: 20%;
 	text-align: center;
 	position: relative;
 	font-family: Cormorant Garamond;
@@ -46,7 +46,7 @@ body {
 	width: 100%;
 	background-color: gray;
 	z-index: 4;
-	margin-top: 13%;
+	margin-top: 17%;
 }
 
 /* Social Media Icons */
