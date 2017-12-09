@@ -38,7 +38,7 @@ body {
 /* Social Media Icons Wrapper */
 
 .social {
-	position: fixed;
+	position: absolute;
 	bottom: 0px;
 	text-align: center;
 	height: 9%;
