@@ -18,6 +18,7 @@ body {
 /* Background Image Title */
 .name {
 	margin-top: -40%;
+	margin-bottom: 45%;
 	text-align: center;
 	position: relative;
 	z-index: 1;
@@ -66,7 +67,7 @@ body {
 /* Text Content */
 
 #firstText {
-	margin-top: 23%;
+	margin-top: 0%;
 }
 
 .text {
