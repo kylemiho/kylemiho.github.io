@@ -122,7 +122,8 @@ ul.skills {
 	border-width: 3px;
 	border-style: solid;
 	float: left;
-	padding: 30px;
+	margin: 30px;
+	margin-bottom: 60px;
 	width: 200px;
 	height: 200px;
 }
