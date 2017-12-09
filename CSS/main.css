@@ -18,7 +18,6 @@ body {
 /* Background Image Title */
 .name {
 	margin-top: -40%;
-	margin-bottom: 45%;
 	text-align: center;
 	position: relative;
 	z-index: 1;
@@ -28,6 +27,8 @@ body {
 }
 
 .description {
+	margin-top: 10%;
+	margin-bottom: 30%;
 	text-align: center;
 	position: relative;
 	font-family: Cormorant Garamond;
