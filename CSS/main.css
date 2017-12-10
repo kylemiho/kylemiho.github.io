@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 
 body {
+	background-color: yellow;
 	background-image: url('https://kylemiho.github.io/IMG/BG.png');
 	background-repeat: repeat;
 }
