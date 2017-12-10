@@ -3,6 +3,7 @@
 
 body {
 	background-color: yellow;
+	overflow: auto;
 	background-image: url('https://kylemiho.github.io/IMG/BG.png');
 	background-repeat: repeat;
 }
@@ -131,7 +132,8 @@ ul.skills {
 	border-width: 2px;
 	border-style: solid;
 	float: left;
-	margin: 30px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-bottom: 60px;
 	width: 200px;
 	height: 200px;
