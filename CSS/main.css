@@ -3,7 +3,6 @@
 
 body {
 	background-color: yellow;
-	overflow: auto;
 	height: 100%;
 	background-image: url('https://kylemiho.github.io/IMG/BG.png');
 	background-repeat: repeat;
@@ -60,11 +59,13 @@ body {
 /* Social Media Icons */
 
 .fa {
+	background-color: blue;
     color: black;
     display: inline-block;
     font-size: 30px;
     margin: auto;
-    width: 10%;
+    height: 5%
+    width: 5%;
     z-index: 5;
 }
 
