@@ -37,13 +37,18 @@ body {
 	z-index: 1;
 }
 
+.biggerContainer {
+	text-align: center;
+	background-color: green;
+}
+
 /* Social Media Icons Wrapper */
 
 .social {
 	position: fixed;
 	bottom: 0px;
 	text-align: center;
-	height: 7%;
+	height: 70px;
 	width: 100%;
 	background-color: gray;
 	z-index: 4;
@@ -57,7 +62,7 @@ body {
     display: inline-block;
     font-size: 30px;
     margin: auto;
-    width: 20px;
+    width: 10%;
     z-index: 5;
 }
 
