@@ -61,7 +61,7 @@ body {
     color: black;
     display: inline-block;
     font-size: 30px;
-    padding: 40px;
+    padding: 20px;
     margin: auto;
     min-height: 30px;
     min-width: 30px;
@@ -133,6 +133,7 @@ ul.skills {
 	border-width: 2px;
 	border-style: solid;
 	display: inline-block;
+	margin-top:  50px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 60px;
