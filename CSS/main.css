@@ -185,3 +185,8 @@ ul.skills {
 	background-image: url("https://kylemiho.github.io/IMG/bomberman.png");
 	background-size: cover;
 }
+
+/* BG MUSIC */
+.bgMusic {
+	width: 150px;
+}
