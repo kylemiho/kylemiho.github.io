@@ -188,6 +188,7 @@ ul.skills {
 
 /* BG MUSIC */
 .center {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
