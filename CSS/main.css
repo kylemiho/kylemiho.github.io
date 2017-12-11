@@ -75,6 +75,7 @@ body {
 /* Text Content */
 
 .centerText {
+	display: block;
 	text-align: center;
 }
 
