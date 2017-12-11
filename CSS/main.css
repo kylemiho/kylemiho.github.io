@@ -74,6 +74,10 @@ body {
 
 /* Text Content */
 
+.centerText {
+	text-align: center;
+}
+
 #firstText {
 	margin-top: 10%;
 }
