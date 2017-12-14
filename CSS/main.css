@@ -191,6 +191,11 @@ ul.skills {
 	background-size: cover;
 }
 
+#steam {
+	background-image: url("https://kylemiho.github.io/IMG/steamsale.png");
+	background-size: cover;
+}
+
 /* BG MUSIC */
 .audio {
 	display: block;
