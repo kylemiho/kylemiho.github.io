@@ -1,13 +1,6 @@
 /* imports */
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 
-body {
-	background-color: yellow;
-	height: 100%;
-	background-image: url('https://kylemiho.github.io/IMG/BG.png');
-	background-repeat: repeat;
-}
-
 /* Background Image */
 .bg {
 	background-size: cover;
